@@ -4,46 +4,46 @@ A smart Question-Answering (Q-A) chatbot that remembers previous messages to pro
 
 Features:
 
-🧠 Context-Aware Responses: Understands questions in the context of prior messages.
+ Context-Aware Responses: Understands questions in the context of prior messages.
 
-📚 Message History: Stores past conversations for better continuity.
+ Message History: Stores past conversations for better continuity.
 
-🌐 Knowledge Integration: Can fetch answers from documents, websites, or databases.
+ Knowledge Integration: Can fetch answers from documents, websites, or databases.
 
-💻 Interactive UI: Works with Streamlit or other interfaces for easy chatting.
+Interactive UI: Works with Streamlit or other interfaces for easy chatting.
 
-🛠️ Extensible: Easily add new functionalities or APIs.
+ Extensible: Easily add new functionalities or APIs.
 
 Technologies Used:
 
-Python 🐍
+Python 
 
-Streamlit 💻
+Streamlit 
 
-LangChain 🔗
+LangChain 
 
-Ollama / Large Language Models 🤖
+Ollama / Large Language Models 
 
-SQLite / JSON for storing conversation history 🗄️
+SQLite / JSON for storing conversation history 
 
 Use Cases:
 
-💬 Customer support chatbots
+ Customer support chatbots
 
-📝 Study or learning assistants
+ Study or learning assistants
 
-🤝 Virtual personal assistants
+Virtual personal assistants
 
-🧩 Interactive Q&A applications
+ Interactive Q&A applications
 
 Fun Stickers / Emojis for README:
 
-🤖 – Chatbot
+ – Chatbot
 
-💬 – Messages
+ – Messages
 
-🧠 – Contextual intelligence
+ – Contextual intelligence
 
-🗂️ – Conversation history
+ – Conversation history
 
-🛠️ – Extensible tools
+ – Extensible tools
